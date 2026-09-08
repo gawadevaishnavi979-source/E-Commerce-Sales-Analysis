@@ -115,7 +115,7 @@ Analyzes refund amounts over time to identify refund trends.
 ---
 
 ## 📈 Dashboard
-
+https://github.com/gawadevaishnavi979-source/E-Commerce-Sales-Analysis/blob/main/Dashboard.JPG
 An interactive Excel dashboard was created using PivotCharts.
 
 ### Dashboard Components
