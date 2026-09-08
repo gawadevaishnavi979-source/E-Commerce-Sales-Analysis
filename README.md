@@ -115,7 +115,7 @@ Analyzes refund amounts over time to identify refund trends.
 ---
 
 ## 📈 Dashboard
-https://github.com/gawadevaishnavi979-source/E-Commerce-Sales-Analysis/blob/main/Dashboard.JPG
+
 An interactive Excel dashboard was created using PivotCharts.
 
 ### Dashboard Components
@@ -135,5 +135,6 @@ The dashboard can be enhanced with Excel **Slicers** for:
 - Country
 - Acquisition Channel
 - Customer Segment
+<img width="1587" height="717" alt="image" src="https://github.com/user-attachments/assets/e3f5765b-c9ef-46cc-9c27-05f3dacf45e7" />
 
 These allow users to interactively filter the analysis.
